@@ -12,5 +12,5 @@ output.textContent = "You clicked Button 2!"; output.style.color = "green";
 });
 btn3.addEventListener("click", function()
 {
-output.textContent = "You clicked Button 3!";output.style.color = "red";
+output.textContent = "You clicked Button 3!"; output.style.color = "red";
   });
