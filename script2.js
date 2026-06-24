@@ -1,4 +1,3 @@
-script2.js
 function selectElements()
 {
 let titlejs = document.getElementById("title");
